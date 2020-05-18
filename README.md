@@ -1,2 +1,4 @@
 # TroyKiri.github.io
- Regular expression learning
+Version 0.0
+В данном проекте писал шаблоны регулярных выражений для каждого поля формы.
+
