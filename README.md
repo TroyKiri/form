@@ -1,5 +1,5 @@
-# TroyKiri.github.io
-Version 0.0
+# https://troykiri.github.io/form/
+Version 0.0.5
 ---
 В данном проекте писал шаблоны регулярных выражений для каждого поля формы.
 
